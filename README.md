@@ -7,7 +7,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MeharamSal/configure-ad)
   - [Building Intuition for DNS](https://github.com/MeharamSal/Dns-Insight)
-  
+- <b>Linux Projects</b>
+
+   - [Installing Firefox On Linux](https://github.com/MeharamSal/Linux_Folder)
 
 <h2>🤳Connect with me:</h2>
 
